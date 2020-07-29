@@ -1,1 +1,1 @@
-cole.weirich@hatchstamping.com,damian.walker@hatchstamping.com,don.oneil@hatchstamping.com,Rick.Moline@hatchstamping.com,Patricia.Young@hatchstamping.com,Walter.Wyniemko@hatchstamping.com
+name@server.com,othername@server.com
